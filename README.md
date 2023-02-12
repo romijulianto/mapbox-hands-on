@@ -25,10 +25,10 @@ _Documentation by Romi Julianto_
 - [Animate map camera around a point](https://animated-camera.netlify.app/)<br>
 ![](http://i.imgur.com/60bts.gif)
 
-- [Change a layer's color with buttons](https://animated-camera.netlify.app/)<br>
-![](http://i.imgur.com/60bts.gif)
+- [Change a layer's color with buttons](https://time-slider-earthquake.netlify.app/)<br>
+![](https://i.imgur.com/9gC2XfE.gif)
 
-- [Create a time slider](https://time-slider-earthquake.netlify.app/)<br>
+- [Create a time slider](earthquake-time.netlify.app)<br>
 ![](http://i.imgur.com/60bts.gif)
 
 ### Referensi
