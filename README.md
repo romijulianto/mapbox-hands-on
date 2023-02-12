@@ -4,7 +4,14 @@ _Documentation by Romi Julianto_
 
 ### Check for the demo hands on static HTML
 
-- [Add Live Realtime Data Satellite Position](https://csb-j08qh1.netlify.app/)
+- [Add Live Realtime Data Satellite Position](https://csb-j08qh1.netlify.app/) 
+![](http://i.imgur.com/60bts.gif)
+
+- [Add Geocoder Searching](https://csb-j08qh1.netlify.app/)
+![](http://i.imgur.com/60bts.gif)
+
+- [Route avoidance with the Directions API and Turf.js](https://route-avoidence.netlify.app/)
+![](http://i.imgur.com/60bts.gif)
 
 
 ### Referensi
